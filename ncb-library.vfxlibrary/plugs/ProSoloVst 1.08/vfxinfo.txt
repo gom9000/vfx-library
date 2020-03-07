@@ -1,0 +1,11 @@
+id: 1347638889
+name: ProSoloVst 1.08
+version: 1
+name_abbreviation: PSVi
+dll_name: ProSoloVst 1.08/ProSoloVst.dll
+parameter_count: 18
+program_count: 128
+is_synth: 1
+has_editor: 1
+editor_width: 898
+editor_height: 288

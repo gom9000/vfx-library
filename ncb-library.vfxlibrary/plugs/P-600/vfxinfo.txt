@@ -1,0 +1,11 @@
+id: 909520946
+name: P-600
+version: 1
+name_abbreviation: 6602
+dll_name: P-600/P600-II.dll
+parameter_count: 62
+program_count: 128
+is_synth: 1
+has_editor: 1
+editor_width: 982
+editor_height: 248

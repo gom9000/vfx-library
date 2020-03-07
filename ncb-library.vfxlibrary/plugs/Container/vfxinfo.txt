@@ -1,0 +1,11 @@
+id: 1919243077
+name: Container
+version: 1
+name_abbreviation: reSE
+dll_name: Container/Redtron_SE.dll
+parameter_count: 40
+program_count: 40
+is_synth: 1
+has_editor: 1
+editor_width: 620
+editor_height: 486

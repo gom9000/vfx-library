@@ -1,0 +1,35 @@
+id: 1515799879
+name: EG70
+version: 1
+name_abbreviation: EG70
+dll_name: EG70/EG70.dll
+parameter_count: 16
+program_count: 1
+is_synth: 1
+has_editor: 1
+editor_width: 520
+editor_height: 320
+vendor: GSi
+vendor_url: http://www.genuinesoundware.com/
+vendor_type: Commercial
+genre: Piano
+mac: 1
+license_sequence:
+...
+gui_msg;Please enter your registration details directly into the plugins GUI as this will create a license file that will unlock the plugin.
+...
+notes:
+...
+*Known Issues*
+No known issues.
+
+*Performance* 
+Limited polyphony on 1ghz V-Machine.
+
+*Misc*
+
+...
+vendor_notes:
+...
+EG70 is a physical modeling simulation of a CP-70 electroacoustic baby grand touring piano.
+...

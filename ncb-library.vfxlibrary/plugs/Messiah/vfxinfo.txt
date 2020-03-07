@@ -1,0 +1,12 @@
+id: 926103857
+name: Messiah
+version: 1
+name_abbreviation: Mess
+dll_name: Messiah/messiah.dll
+parameter_count: 193
+program_count: 128
+is_synth: 1
+has_editor: 1
+editor_width: 995
+editor_height: 489
+dont_free_library_on_mac: 0

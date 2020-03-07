@@ -1,0 +1,288 @@
+preset: Fuzz Guitar 1
+    version: 3
+    tempo_bpm: 120
+    time_signature_num: 4
+    time_signature_den: 4
+    tempo_bpm_midi: 0
+    mixer_midi_channel: 0
+    audio_buffer_size: 0
+
+    channel: 0
+        plugin: 1347639401
+            name: AM ProSoloVst 2.04
+            short_name: PSXi
+            midi_channel: 1
+            midi_note_min: 0
+            midi_note_max: 0
+            midi_transpose: 0
+            midi_from_computer: 1
+            chained_midi: 0
+            midi_thru: 0
+            program_midi: 0
+            parameter_count: 18
+            selected_program: 0
+
+        plugin:
+
+        plugin:
+
+        volume: 206
+        pan: 128
+        left_in: 0
+        right_in: 0
+        mute: 0
+        solo: 0
+        mute_others_midi: 0
+        toggle_mute_midi: 0
+        toggle_solo_midi: 0
+        volume_midi: 0
+        pan_midi: 0
+        mute_midi: 0
+        solo_midi: 0
+
+        send: 0
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+        send: 1
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+    channel: 1
+        plugin: 1347639401
+            name: AM ProSoloVst 2.04
+            short_name: PSXi
+            midi_channel: 0
+            midi_note_min: 0
+            midi_note_max: 0
+            midi_transpose: 0
+            midi_from_computer: 1
+            chained_midi: 0
+            midi_thru: 0
+            program_midi: 0
+            parameter_count: 18
+            selected_program: 0
+
+        plugin:
+
+        plugin:
+
+        volume: 0
+        pan: 128
+        left_in: 0
+        right_in: 0
+        mute: 0
+        solo: 0
+        mute_others_midi: 0
+        toggle_mute_midi: 0
+        toggle_solo_midi: 0
+        volume_midi: 0
+        pan_midi: 0
+        mute_midi: 0
+        solo_midi: 0
+
+        send: 0
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+        send: 1
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+    channel: 2
+        plugin:
+
+        plugin:
+
+        plugin:
+
+        volume: 0
+        pan: 128
+        left_in: 0
+        right_in: 0
+        mute: 0
+        solo: 0
+        mute_others_midi: 0
+        toggle_mute_midi: 0
+        toggle_solo_midi: 0
+        volume_midi: 0
+        pan_midi: 0
+        mute_midi: 0
+        solo_midi: 0
+
+        send: 0
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+        send: 1
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+    channel: 3
+        plugin:
+
+        plugin:
+
+        plugin:
+
+        volume: 0
+        pan: 128
+        left_in: 0
+        right_in: 0
+        mute: 0
+        solo: 0
+        mute_others_midi: 0
+        toggle_mute_midi: 0
+        toggle_solo_midi: 0
+        volume_midi: 0
+        pan_midi: 0
+        mute_midi: 0
+        solo_midi: 0
+
+        send: 0
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+        send: 1
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+    aux: 0
+        plugin:
+
+        plugin:
+
+        plugin:
+
+        volume: 206
+        pan: 128
+        left_in: 0
+        right_in: 0
+        mute: 0
+        solo: 0
+        mute_others_midi: 0
+        toggle_mute_midi: 0
+        toggle_solo_midi: 0
+        volume_midi: 0
+        pan_midi: 0
+        mute_midi: 0
+        solo_midi: 0
+
+        send: 0
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+        send: 1
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+    aux: 1
+        plugin:
+
+        plugin:
+
+        plugin:
+
+        volume: 206
+        pan: 128
+        left_in: 0
+        right_in: 0
+        mute: 0
+        solo: 0
+        mute_others_midi: 0
+        toggle_mute_midi: 0
+        toggle_solo_midi: 0
+        volume_midi: 0
+        pan_midi: 0
+        mute_midi: 0
+        solo_midi: 0
+
+        send: 0
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+        send: 1
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+    master:
+        plugin: 912668469
+            name: Classic Delay
+            short_name: 6f75
+            midi_channel: 0
+            midi_note_min: 0
+            midi_note_max: 0
+            midi_transpose: 0
+            midi_from_computer: 1
+            chained_midi: 0
+            midi_thru: 0
+            program_midi: 0
+            parameter_count: 14
+            selected_program: 1
+
+        plugin: 913979766
+            name: Classic Reverb
+            short_name: 6z9v
+            midi_channel: 0
+            midi_note_min: 0
+            midi_note_max: 0
+            midi_transpose: 0
+            midi_from_computer: 1
+            chained_midi: 0
+            midi_thru: 0
+            program_midi: 0
+            parameter_count: 8
+            selected_program: 0
+
+        plugin:
+
+        volume: 206
+        pan: 128
+        left_in: 0
+        right_in: 0
+        mute: 0
+        solo: 0
+        mute_others_midi: 0
+        toggle_mute_midi: 0
+        toggle_solo_midi: 0
+        volume_midi: 0
+        pan_midi: 0
+        mute_midi: 0
+        solo_midi: 0
+
+        send: 0
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+
+        send: 1
+            gain: 0
+            is_pre: 0
+            gain_midi: 0
+            is_pre_midi: 0
+

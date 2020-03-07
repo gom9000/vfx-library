@@ -1,0 +1,34 @@
+id: 1095001650
+name: FuzzPlus2
+version: 1
+dll_version: 2.1.0.0
+name_abbreviation: FuzP2
+dll_name: FuzzPlus2/FuzzPlus 2.dll
+parameter_count: 4
+program_count: 1
+is_synth: 0
+has_editor: 1
+editor_width: 300
+editor_height: 250
+vendor: Audio Damage
+vendor_url: http://www.audiodamage.com/
+vendor_type: Free
+genre: Multi FX
+mac: 1
+notes:
+...
+*Known Issues*
+No known issues.
+
+*Performance* 
+No known issues.
+
+*Misc*
+
+...
+vendor_notes:
+...
+FuzzPlus 2.2 is an update of our popular free distortion pedal model. Cloned from a rare vintage fuzz pedal, FuzzPlus 2 is perfect for thrashing drum loops, making ripping synth leads, or absolutely tearing off heads with your bassline. 
+
+Vendor product information is sourced from the vendors website. All product names, registered trademarks, and copyright text copy is the property of their respective owners.
+...

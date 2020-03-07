@@ -1,0 +1,11 @@
+id: 1347639401
+name: AM ProSoloVst 2.04
+version: 1
+name_abbreviation: PSXi
+dll_name: AM ProSoloVst 2.04/ProSoloVst_free.dll
+parameter_count: 18
+program_count: 128
+is_synth: 1
+has_editor: 1
+editor_width: 898
+editor_height: 288

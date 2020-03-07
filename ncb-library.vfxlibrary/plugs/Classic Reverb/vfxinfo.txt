@@ -1,0 +1,33 @@
+id: 913979766
+dll_name: Classic Reverb/Classic Reverb.dll
+name: Classic Reverb
+is_synth: 0
+parameter_count: 8
+program_count: 33
+has_editor: 1
+editor_width: 745
+editor_height: 115
+vendor: Kjaerhus Audio
+vendor_url: http://www.kjaerhusaudio.com/download.php
+vendor_type: Free
+genre: Reverb
+version: 1
+mac: 2
+notes:
+...
+*Known Issues*
+No known issues.
+
+*Performance* 
+No known problems.
+
+*Misc*
+Vendor no longer has a website.
+
+...
+vendor_notes:
+...
+Vendor no longer has a website.
+
+Vendor product information is sourced from the vendors website. All product names, registered trademarks, and copyright text copy is the property of their respective owners.
+...

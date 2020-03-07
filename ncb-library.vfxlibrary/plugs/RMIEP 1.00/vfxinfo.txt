@@ -1,0 +1,11 @@
+id: 1380796792
+name: RMIEP 1.00
+version: 1
+name_abbreviation: RMIx
+dll_name: RMIEP 1.00/RMI-EP.dll
+parameter_count: 21
+program_count: 128
+is_synth: 1
+has_editor: 1
+editor_width: 680
+editor_height: 270
