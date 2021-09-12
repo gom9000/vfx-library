@@ -230,19 +230,7 @@ preset: Fuzz Guitar 1
             is_pre_midi: 0
 
     master:
-        plugin: 912668469
-            name: Classic Delay
-            short_name: 6f75
-            midi_channel: 0
-            midi_note_min: 0
-            midi_note_max: 0
-            midi_transpose: 0
-            midi_from_computer: 1
-            chained_midi: 0
-            midi_thru: 0
-            program_midi: 0
-            parameter_count: 14
-            selected_program: 1
+        plugin:
 
         plugin: 913979766
             name: Classic Reverb
